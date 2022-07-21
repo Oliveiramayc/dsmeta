@@ -34,11 +34,11 @@ public class Sale {
 	}
 
 	public String getSallerName() {
-		return sallerName;
+		return sellerName;
 	}
 
 	public void setSallerName(String sallerName) {
-		this.sallerName = sallerName;
+		this.sellerName = sallerName;
 	}
 
 	public Integer getVisited() {
